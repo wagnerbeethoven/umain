@@ -1,0 +1,1 @@
+(self["webpackChunkumain"]=self["webpackChunkumain"]||[]).push([[378],{4378:()=>{full_name,social_name,city,country,ancestry,birthdate,gender,sexualities,disability,phone,email,other_contact,social_link,social_url,degrees,kwnoledge,areas,lang,lang,level,company,job,job,description}}]);

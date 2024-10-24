@@ -1,0 +1,1 @@
+(self["webpackChunkumain"]=self["webpackChunkumain"]||[]).push([[928],{8928:()=>{email}}]);
